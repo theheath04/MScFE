@@ -1,5 +1,3 @@
-This is the Capstone Project folder
-
 # Capstone Project: Handling Market Regime Shifts
 
 ## Overview
